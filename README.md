@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<img src="https://github.com/nandinhomsf/nandinhomsf/blob/main/vaporwave-car.gif">
+<img src="https://github.com/nandinhomsf/nandinhomsf/blob/main/vaporwave.gif">
 </p>
 
 <div>
